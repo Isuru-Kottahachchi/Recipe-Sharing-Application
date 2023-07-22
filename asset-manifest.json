@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Recipe-Sharing-Application/static/css/main.482fd0ab.css",
-    "main.js": "/Recipe-Sharing-Application/static/js/main.6dbddb67.js",
-    "index.html": "/Recipe-Sharing-Application/index.html",
-    "main.482fd0ab.css.map": "/Recipe-Sharing-Application/static/css/main.482fd0ab.css.map",
-    "main.6dbddb67.js.map": "/Recipe-Sharing-Application/static/js/main.6dbddb67.js.map"
+    "main.css": "/static/css/main.482fd0ab.css",
+    "main.js": "/static/js/main.6dbddb67.js",
+    "index.html": "/index.html",
+    "main.482fd0ab.css.map": "/static/css/main.482fd0ab.css.map",
+    "main.6dbddb67.js.map": "/static/js/main.6dbddb67.js.map"
   },
   "entrypoints": [
     "static/css/main.482fd0ab.css",
